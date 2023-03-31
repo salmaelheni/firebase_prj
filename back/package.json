@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase": "^8.6.8",
+    "firebase-admin": "^11.3.0",
+    "http": "^0.0.1-security",
+    "jwt-decode": "^3.1.2",
+    "nodemon": "^2.0.20",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.4.4",
+    "swagger-jsdoc": "^6.2.7",
+    "swagger-ui-express": "^4.6.0",
+    "validatorjs": "^3.22.1",
+    "web-push": "^3.5.0"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "firestore demo test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js started",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
